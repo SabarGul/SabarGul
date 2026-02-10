@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabargul&label=Profile%20views&color=0e75b6&style=flat" alt="sabargul" /> </p>
 
-- 🌱 I’m currently enhancing **my full stack skills**
+- 🌱 I’m currently enhancing **my Data Analyst skills**
 
 - 📫 How to reach me **sabargulzakir8@gmail.com**
 
